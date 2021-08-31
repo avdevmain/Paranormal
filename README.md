@@ -6,5 +6,8 @@ Multiplayer framework: [Mirror](https://assetstore.unity.com/packages/tools/netw
 AI : [Behaviour Designer](https://assetstore.unity.com/packages/tools/visual-scripting/behavior-designer-behavior-trees-for-everyone-15277)
 
 Some AI trees:
-<img src="https://github.com/avdevmain/Paranormal/blob/main/AI%20trees/1.png" width="250" title="hover text">
 
+<img src="https://github.com/avdevmain/Paranormal/blob/main/AI%20trees/1.png" width="550" title="hover text">
+<img src="https://github.com/avdevmain/Paranormal/blob/main/AI%20trees/2.png" width="650" title="hover text">
+<img src="https://github.com/avdevmain/Paranormal/blob/main/AI%20trees/3.png" width="1080" title="hover text">
+<img src="https://github.com/avdevmain/Paranormal/blob/main/AI%20trees/4.png" width="650" title="hover text">
