@@ -5,6 +5,8 @@ Multiplayer cooperative game, where you and three your friends have to enter the
 Multiplayer framework: [Mirror](https://assetstore.unity.com/packages/tools/network/mirror-129321)
 AI : [Behaviour Designer](https://assetstore.unity.com/packages/tools/visual-scripting/behavior-designer-behavior-trees-for-everyone-15277)
 
+[Gamedesign document (Russian)](https://docs.google.com/document/d/1mIKUwg2La7I3QvC-odkOYsK0DJoFX3o7erkV15EeRBA/edit?usp=sharing)
+
 Some AI trees:
 
 <img src="https://github.com/avdevmain/Paranormal/blob/main/AI%20trees/1.png" width="550" title="hover text">
